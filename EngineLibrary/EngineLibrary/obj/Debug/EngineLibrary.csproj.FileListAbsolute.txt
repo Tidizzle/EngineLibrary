@@ -1,0 +1,5 @@
+C:\Users\Zach\Documents\GitHub\EngineLibrary\EngineLibrary\EngineLibrary\bin\Debug\EngineLibrary.dll
+C:\Users\Zach\Documents\GitHub\EngineLibrary\EngineLibrary\EngineLibrary\bin\Debug\EngineLibrary.pdb
+C:\Users\Zach\Documents\GitHub\EngineLibrary\EngineLibrary\EngineLibrary\obj\Debug\EngineLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Documents\GitHub\EngineLibrary\EngineLibrary\EngineLibrary\obj\Debug\EngineLibrary.dll
+C:\Users\Zach\Documents\GitHub\EngineLibrary\EngineLibrary\EngineLibrary\obj\Debug\EngineLibrary.pdb
